@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ichos")(type "KiCad")(uri "${KIPRJMOD}/lib/ichos.kicad_sym")(options "")(descr ""))
+)
