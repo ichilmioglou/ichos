@@ -1,4 +1,4 @@
-23698663323225293
+23702119633639933
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96425,6 +96425,13 @@ Varistor VF
 2
 2
 ichos
+691317510002
+<b>WR-TBL Serie 3175 - 5.08 mm Close Horizontal PCB Header with Flanges<br></b>Max Height = 8.5mm , Pitch 5.08mm , 2pins
+
+0
+2
+2
+ichos
 430481031816
 <B>WS-TASV</B><BR>SMT Washable Tact Switch 6x6 mm ,4 pins
 
@@ -96445,6 +96452,13 @@ ECMF02-4CMX8
 0
 8
 8
+ichos
+TPS259804ONRGER
+
+TPS259804ONRGER 
+0
+26
+26
 ichos
 XU316-1024-QF60B-C32
 
