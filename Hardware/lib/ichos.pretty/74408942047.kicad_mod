@@ -1,0 +1,174 @@
+(footprint "74408942047"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<b>WE-SPC SMD Power Inductor<br></b><br>Size: 4818, SMT, 2pins<br>LXWXH=4.8X4.8X1.8mm")
+	(property "Reference" "REF**"
+		(at 0 -4.135 0)
+		(layer "F.SilkS")
+		(uuid "aef18826-4be5-42eb-9e05-ce2ff1e5fd6d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WE-SPC_4818"
+		(at 0 3.865 0)
+		(layer "F.Fab")
+		(uuid "3283cfe6-f74f-40ba-a8a7-f529735572ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5bb8e4df-1939-4b4b-8633-55bea2180fa8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39ed2030-9888-4088-aa38-deb0a6b5df68")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b66873df-cbdf-420f-8908-ff570e678b20")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.5 0.45)
+		(end -2.5 -0.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c7e6d2e8-e3ff-4f39-856b-df1279587e30")
+	)
+	(fp_line
+		(start 2.5 -0.45)
+		(end 2.5 0.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b0a5ebe8-216f-4dab-ab20-28ecb252f021")
+	)
+	(fp_circle
+		(center -3.5 -1.75)
+		(end -3.3 -1.75)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "081fb575-7276-4c7b-9023-1ac9b086f319")
+	)
+	(fp_poly
+		(pts
+			(xy 2.85 -2.95) (xy 2.85 2.95) (xy -2.85 2.95) (xy -2.85 -2.95)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "6dfff130-9b5d-4f9b-9ef1-63296fa145ad")
+	)
+	(fp_line
+		(start -2.4 -2.4)
+		(end 2.4 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "95acc04d-7289-4830-a0f5-64c0631fdd9b")
+	)
+	(fp_line
+		(start -2.4 2.4)
+		(end -2.4 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8533529d-1db2-4b46-bf05-5fb3364c1cf8")
+	)
+	(fp_line
+		(start 2.4 -2.4)
+		(end 2.4 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd2ba6c5-4d46-4d9c-aeeb-cd9a0e68fd74")
+	)
+	(fp_line
+		(start 2.4 2.4)
+		(end -2.4 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "491eafa6-80cf-4503-88ab-de2683005fdf")
+	)
+	(pad "1" smd rect
+		(at 0 -1.75)
+		(size 5.3 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "2ddda6b8-750b-4d18-9c27-4c567177354c")
+	)
+	(pad "2" smd rect
+		(at 0 1.75)
+		(size 5.3 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "bd0c8755-c0a9-4e60-a56f-cbd2141c1608")
+	)
+	(model "${KIPRJMOD}/lib/74408942047.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

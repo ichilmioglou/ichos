@@ -1,4 +1,4 @@
-23702119633639933
+23714217714799160
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96432,6 +96432,34 @@ ichos
 2
 2
 ichos
+64900621122
+<B>WR-MPC4 </B><BR>4.20 mm Male Dual Row Vertical Header, 6 Pins
+
+0
+6
+6
+ichos
+744042006
+<b>WE-TPC SMD Tiny Power Inductorr<br></b><br>Size: 4818, SMT, 2pins<br>LXWXH=4.8X4.8X1.8mm
+
+0
+2
+2
+ichos
+744042008
+<b>WE-TPC SMD Tiny Power Inductorr<br></b><br>Size: 4818, SMT, 2pins<br>LXWXH=4.8X4.8X1.8mm
+
+0
+2
+2
+ichos
+744053220
+<b>WE-TPC SMD Tiny Power Inductorr<br></b><br>Size: 5828, SMT, 2pins<br>LXWXH=5.8X5.8X2.8mm
+
+0
+2
+2
+ichos
 430481031816
 <B>WS-TASV</B><BR>SMT Washable Tact Switch 6x6 mm ,4 pins
 
@@ -96446,12 +96474,33 @@ ichos
 4
 4
 ichos
+74408942047
+<b>WE-SPC SMD Power Inductor<br></b><br>Size: 4818, SMT, 2pins<br>LXWXH=4.8X4.8X1.8mm
+
+0
+2
+2
+ichos
+865060443004
+<B>WCAP-ASLL</B><BR> Aluminium Electrolytic Capacitors,6.3X5.5X2.1(DiameterXLengthXP)
+
+0
+2
+2
+ichos
 ECMF02-4CMX8
 
 
 0
 8
 8
+ichos
+LMR43610MB3RPER
+
+LMR43610MB3RPER 
+0
+9
+9
 ichos
 TPS259804ONRGER
 
